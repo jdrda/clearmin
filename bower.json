@@ -1,0 +1,27 @@
+{
+  "name": "Clearmin",
+  "version": "0.0.1",
+  "description": "Bootstrap admin template using only default Bootstrap css and javascript",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap",
+    "web",
+    "admin",
+    "admin",
+    "template",
+    "admin",
+    "template"
+  ],
+  "authors": [
+    "Jan Drda"
+  ],
+  "license": "MIT",
+  "homepage": "www.clearmin.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
